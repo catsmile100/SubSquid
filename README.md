@@ -50,6 +50,11 @@ npm ci
 
 
 import id in folder : `uniform-load-squid/query-gateway/keys` in Gitpod
+
+
+![upload](https://github.com/catsmile100/Subsquid/assets/85368621/e4456568-c2f5-497c-91aa-e73493483eaf)
+
+
 ```
 sqd get-peer-id
 ```
