@@ -64,7 +64,7 @@ sqd get-peer-id
 - `Lock 10 tSQD`
 - `Wait for about 15 minutes`
 
-### Buil & RUN
+### Build & RUN
 ```
 sqd up
 ```
