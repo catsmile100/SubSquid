@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="350" height="350" src="https://github.com/catsmile100/Validator-Testnet/assets/85368621/b8181109-abbb-4688-94c1-c83cb8cfb8dd">
+  <img height="350" height="350" src="https://github.com/catsmile100/Subsquid/assets/85368621/942db58e-fbaa-43d0-b539-541e640da311">
 </p>
 <h1>
 <p align="center"> Subsquid: Quest Run Network Test One </p>
@@ -11,6 +11,10 @@
   <a href="https://twitter.com/subsquid">Twitter</a> |
   <a href="https://github.com/subsquid-quests/network-test-one-uniform-load-squid">Docs</a> 
 </p>
+
+### Requirement
+
+[Gitpod ](https://www.gitpod.io/)
 
 ### Install dependencies
 ```
@@ -39,9 +43,9 @@ npm ci
 
 ### Get Key
 
-Downlaod Key in : `https://app.subsquid.io/network-dashboard`
+`Downlaod Key` : https://app.subsquid.io/network-dashboard
 
-import id ini folder : uniform-load-squid/query-gateway/keys in Gitpod
+import id ini folder : `uniform-load-squid/query-gateway/keys` in Gitpod
 ```
 sqd get-peer-id
 ```
@@ -57,7 +61,7 @@ sqd get-peer-id
 
 ### Get CU
 - `Get CU` https://app.subsquid.io/profile/gateways?testnet
-- Lock 10 tSQD by selecting your gateway on this page, clicking "Get CU" and submitting the form. Once done, you will begin getting computation units (CUs) once every epoch (~15 minutes).
+- `Lock 10 tSQD`
 - `Wait for about 15 minutes`
 
 ### Buil & RUN
