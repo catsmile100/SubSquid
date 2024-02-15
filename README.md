@@ -43,7 +43,7 @@ npm ci
 
 ### Get Key
 
-`Downlaod Key` : https://app.subsquid.io/network-dashboard
+[Downlaod Key`](https://app.subsquid.io/network-dashboard)
 
 
 ![Key](https://github.com/catsmile100/Subsquid/assets/85368621/8b170199-67b4-4162-8a97-42d2b92e705e)
