@@ -49,7 +49,7 @@ npm ci
 ![Key](https://github.com/catsmile100/Subsquid/assets/85368621/8b170199-67b4-4162-8a97-42d2b92e705e)
 
 
-import id in folder : `uniform-load-squid/query-gateway/keys` in Gitpod
+Upload id in folder : `uniform-load-squid/query-gateway/keys` in Gitpod
 
 
 ![upload](https://github.com/catsmile100/Subsquid/assets/85368621/e4456568-c2f5-497c-91aa-e73493483eaf)
