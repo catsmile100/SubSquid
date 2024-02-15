@@ -61,7 +61,7 @@ sqd get-peer-id
 Copy `peer-id`
 
 ### Register
-- `goto` : https://app.subsquid.io/profile/gateways/add?testnet
+- [Register](https://app.subsquid.io/profile/gateways/add?testnet)
 - `Add Gateway`
 - `input name`
 - `paste peer id  12D3Koxxxxxxxxxxxxxxxxxxxxxxxxxxx`
@@ -70,7 +70,7 @@ Copy `peer-id`
 
 
 ### Get CU
-- `Get CU` https://app.subsquid.io/profile/gateways?testnet
+- [Get CU](https://app.subsquid.io/profile/gateways?testnet)
 - `Lock 10 tSQD`
 - `Wait 15 minutes`
   
