@@ -45,7 +45,7 @@ npm ci
 
 `Downlaod Key` : https://app.subsquid.io/network-dashboard
 
-import id ini folder : `uniform-load-squid/query-gateway/keys` in Gitpod
+import id in folder : `uniform-load-squid/query-gateway/keys` in Gitpod
 ```
 sqd get-peer-id
 ```
