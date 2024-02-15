@@ -49,6 +49,7 @@ import id in folder : `uniform-load-squid/query-gateway/keys` in Gitpod
 ```
 sqd get-peer-id
 ```
+Copy `peer-id`
 
 ### Register
 - `goto` : https://app.subsquid.io/profile/gateways/add?testnet
