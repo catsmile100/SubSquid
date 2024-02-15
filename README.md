@@ -88,6 +88,10 @@ sqd build
 ```
 sqd run .
 ```
+
+![run](https://github.com/catsmile100/Subsquid/assets/85368621/bedfe3b0-b9bb-4ad8-9bb2-fc55a82362fa)
+
+
 ![done](https://github.com/catsmile100/Subsquid/assets/85368621/5f519d7a-46fc-4284-89aa-3f0771f64ea4)
 
 `Estimated runtime 1-3 hours`
