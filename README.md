@@ -72,7 +72,7 @@ Copy `peer-id`
 ### Get CU
 - `Get CU` https://app.subsquid.io/profile/gateways?testnet
 - `Lock 10 tSQD`
-- `Wait for about 15 minutes`
+- `Wait 15 minutes`
   
 ![logk](https://github.com/catsmile100/Subsquid/assets/85368621/191e4531-e409-465c-876e-b3a788251434)
 
